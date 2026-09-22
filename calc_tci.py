@@ -29,7 +29,6 @@ def _load_local_tci_function():
 calculate_tci_from_weather_data = _load_local_tci_function()
 
 # Configuration
-YEAR = 2025
 DATA_DIR = r'd:\temp'
 OUTPUT_FILE = os.path.join(DATA_DIR, 'tci.txt')
 

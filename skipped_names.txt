@@ -1,0 +1,23 @@
+0060::Ameland
+0744::Baarle-Nassau
+0888::Beek
+0504::Dirksland
+0693::Graafstroom
+0394::Haarlemmermeer
+0395::Harenkarspel
+0694::Liesveld
+0559::Middelharnis
+0265::Millingen aan de Rijn
+0424::Muiden
+0571::Nieuw-Lekkerland
+0580::Oostflakkee
+0339::Renswoude
+0277::Rozendaal
+0458::Schermer
+0088::Schiermonnikoog
+0051::Skarsterland
+0093::Terschelling
+0448::Texel
+0096::Vlieland
+0478::Zeevang
+0476::Zijpe

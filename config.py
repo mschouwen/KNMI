@@ -7,8 +7,8 @@ from datetime import datetime
 DATA_DIR = Path(os.getenv("KNMI_DATA_DIR", r"d:\temp"))
 
 # Shared date range used by calc_tci.py
-TCI_START_DATE = datetime(2025, 1, 1)
-TCI_END_DATE = datetime(2025, 12, 30)
+TCI_START_DATE = datetime(2003, 1, 1)
+TCI_END_DATE = datetime(2026, 1, 1)
 
 
 def data_path(*parts: str) -> Path:

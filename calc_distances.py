@@ -30,7 +30,7 @@ def is_dutch_coordinate(lat, lon):
 # Read gemeente.txt
 gemeente_data = {}
 skipped_municipalities = 0
-with open(data_path('gemeente.txt'), 'r', encoding='utf-8', newline='') as f:
+with open(data_path('gemeente_spatial.txt'), 'r', encoding='utf-8', newline='') as f:
     reader = csv.reader(f)
     next(reader, None)
     for row in reader:
